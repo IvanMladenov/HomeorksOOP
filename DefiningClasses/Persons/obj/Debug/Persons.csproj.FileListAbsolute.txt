@@ -1,0 +1,6 @@
+E:\Fundamentials\HomeorksOOP\DefiningClasses\Persons\bin\Debug\Persons.exe.config
+E:\Fundamentials\HomeorksOOP\DefiningClasses\Persons\obj\Debug\Persons.csprojResolveAssemblyReference.cache
+E:\Fundamentials\HomeorksOOP\DefiningClasses\Persons\bin\Debug\Persons.exe
+E:\Fundamentials\HomeorksOOP\DefiningClasses\Persons\bin\Debug\Persons.pdb
+E:\Fundamentials\HomeorksOOP\DefiningClasses\Persons\obj\Debug\Persons.exe
+E:\Fundamentials\HomeorksOOP\DefiningClasses\Persons\obj\Debug\Persons.pdb
