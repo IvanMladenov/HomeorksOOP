@@ -10,11 +10,12 @@ namespace EnterNumbers
     {
         static void Main(string[] args)
         {
-            for (int i = 0; i < 10; i++)
+            int lastNumber = 0;
+            for (int i = 0; i < 10; i++)                
             {
                 try
                 {
-                    ReadNumber(1, 100);
+                    lastNumber=ReadNumber(1,100,lastNumber);
                 }
                 catch(FormatException)
                 {
@@ -26,12 +27,16 @@ namespace EnterNumbers
                     Console.WriteLine("The number must be in range [1...100]");
                     i--;
                 }
+                catch(ArgumentOutOfRangeException)
+                {
+                    Console.WriteLine("The number must be greather than previous number.");
+                }
                 
             }
            
         }
 
-        static void ReadNumber(int start, int end)
+        static int ReadNumber(int start, int end,int lastNumber)
         {
             int number = int.Parse(Console.ReadLine());
 
@@ -39,6 +44,15 @@ namespace EnterNumbers
             {
                 throw new IndexOutOfRangeException();
             }
+            else if(number<=lastNumber)
+            {
+                throw new ArgumentOutOfRangeException();
+            }
+            else
+            {
+                lastNumber = number;
+            }
+            return lastNumber;
         }
     }
 }
