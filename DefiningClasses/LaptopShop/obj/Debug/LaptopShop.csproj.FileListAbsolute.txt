@@ -1,1 +1,6 @@
 E:\Fundamentials\HomeorksOOP\DefiningClasses\LaptopShop\bin\Debug\LaptopShop.exe.config
+E:\Fundamentials\HomeorksOOP\DefiningClasses\LaptopShop\bin\Debug\LaptopShop.exe
+E:\Fundamentials\HomeorksOOP\DefiningClasses\LaptopShop\bin\Debug\LaptopShop.pdb
+E:\Fundamentials\HomeorksOOP\DefiningClasses\LaptopShop\obj\Debug\LaptopShop.csprojResolveAssemblyReference.cache
+E:\Fundamentials\HomeorksOOP\DefiningClasses\LaptopShop\obj\Debug\LaptopShop.exe
+E:\Fundamentials\HomeorksOOP\DefiningClasses\LaptopShop\obj\Debug\LaptopShop.pdb
