@@ -1,0 +1,6 @@
+E:\Fundamentials\HomeorksOOP\ExeptionHandling\Sqrt\bin\Debug\Sqrt.exe.config
+E:\Fundamentials\HomeorksOOP\ExeptionHandling\Sqrt\bin\Debug\Sqrt.exe
+E:\Fundamentials\HomeorksOOP\ExeptionHandling\Sqrt\bin\Debug\Sqrt.pdb
+E:\Fundamentials\HomeorksOOP\ExeptionHandling\Sqrt\obj\Debug\Sqrt.csprojResolveAssemblyReference.cache
+E:\Fundamentials\HomeorksOOP\ExeptionHandling\Sqrt\obj\Debug\Sqrt.exe
+E:\Fundamentials\HomeorksOOP\ExeptionHandling\Sqrt\obj\Debug\Sqrt.pdb

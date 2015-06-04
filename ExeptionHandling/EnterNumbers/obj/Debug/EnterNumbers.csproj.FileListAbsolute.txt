@@ -1,0 +1,5 @@
+E:\Fundamentials\HomeorksOOP\ExeptionHandling\EnterNumbers\bin\Debug\EnterNumbers.exe.config
+E:\Fundamentials\HomeorksOOP\ExeptionHandling\EnterNumbers\bin\Debug\EnterNumbers.exe
+E:\Fundamentials\HomeorksOOP\ExeptionHandling\EnterNumbers\bin\Debug\EnterNumbers.pdb
+E:\Fundamentials\HomeorksOOP\ExeptionHandling\EnterNumbers\obj\Debug\EnterNumbers.exe
+E:\Fundamentials\HomeorksOOP\ExeptionHandling\EnterNumbers\obj\Debug\EnterNumbers.pdb
