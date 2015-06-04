@@ -1,0 +1,6 @@
+E:\Fundamentials\HomeorksOOP\DefiningClasses\PC_Catalog\bin\Debug\PC_Catalog.exe.config
+E:\Fundamentials\HomeorksOOP\DefiningClasses\PC_Catalog\obj\Debug\PC_Catalog.csprojResolveAssemblyReference.cache
+E:\Fundamentials\HomeorksOOP\DefiningClasses\PC_Catalog\bin\Debug\PC_Catalog.exe
+E:\Fundamentials\HomeorksOOP\DefiningClasses\PC_Catalog\bin\Debug\PC_Catalog.pdb
+E:\Fundamentials\HomeorksOOP\DefiningClasses\PC_Catalog\obj\Debug\PC_Catalog.exe
+E:\Fundamentials\HomeorksOOP\DefiningClasses\PC_Catalog\obj\Debug\PC_Catalog.pdb
