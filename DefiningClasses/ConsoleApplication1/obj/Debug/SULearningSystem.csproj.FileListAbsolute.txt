@@ -1,0 +1,6 @@
+E:\Fundamentials\HomeorksOOP\DefiningClasses\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Fundamentials\HomeorksOOP\DefiningClasses\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Fundamentials\HomeorksOOP\DefiningClasses\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\Fundamentials\HomeorksOOP\DefiningClasses\ConsoleApplication1\obj\Debug\SULearningSystem.csprojResolveAssemblyReference.cache
+E:\Fundamentials\HomeorksOOP\DefiningClasses\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Fundamentials\HomeorksOOP\DefiningClasses\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
