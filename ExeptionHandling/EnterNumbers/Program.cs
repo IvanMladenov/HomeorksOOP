@@ -30,6 +30,7 @@ namespace EnterNumbers
                 catch(ArgumentOutOfRangeException)
                 {
                     Console.WriteLine("The number must be greather than previous number.");
+                    i--;
                 }
                 
             }
