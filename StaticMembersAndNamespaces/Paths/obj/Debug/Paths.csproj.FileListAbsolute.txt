@@ -1,0 +1,8 @@
+E:\Fundamentials\HomeorksOOP\StaticMembersAndNamespaces\Paths\bin\Debug\Paths.exe.config
+E:\Fundamentials\HomeorksOOP\StaticMembersAndNamespaces\Paths\bin\Debug\Paths.exe
+E:\Fundamentials\HomeorksOOP\StaticMembersAndNamespaces\Paths\bin\Debug\Paths.pdb
+E:\Fundamentials\HomeorksOOP\StaticMembersAndNamespaces\Paths\bin\Debug\Point3D.exe
+E:\Fundamentials\HomeorksOOP\StaticMembersAndNamespaces\Paths\bin\Debug\Point3D.pdb
+E:\Fundamentials\HomeorksOOP\StaticMembersAndNamespaces\Paths\obj\Debug\Paths.csprojResolveAssemblyReference.cache
+E:\Fundamentials\HomeorksOOP\StaticMembersAndNamespaces\Paths\obj\Debug\Paths.exe
+E:\Fundamentials\HomeorksOOP\StaticMembersAndNamespaces\Paths\obj\Debug\Paths.pdb

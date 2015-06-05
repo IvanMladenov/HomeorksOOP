@@ -1,0 +1,6 @@
+E:\Fundamentials\HomeorksOOP\StaticMembersAndNamespaces\Point3D\bin\Debug\Point3D.exe.config
+E:\Fundamentials\HomeorksOOP\StaticMembersAndNamespaces\Point3D\bin\Debug\Point3D.exe
+E:\Fundamentials\HomeorksOOP\StaticMembersAndNamespaces\Point3D\bin\Debug\Point3D.pdb
+E:\Fundamentials\HomeorksOOP\StaticMembersAndNamespaces\Point3D\obj\Debug\Point3D.csprojResolveAssemblyReference.cache
+E:\Fundamentials\HomeorksOOP\StaticMembersAndNamespaces\Point3D\obj\Debug\Point3D.exe
+E:\Fundamentials\HomeorksOOP\StaticMembersAndNamespaces\Point3D\obj\Debug\Point3D.pdb
