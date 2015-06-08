@@ -1,0 +1,6 @@
+E:\Fundamentials\HomeorksOOP\InheritanceAndAbstraction\HumanStudentWorker\bin\Debug\HumanStudentWorker.exe.config
+E:\Fundamentials\HomeorksOOP\InheritanceAndAbstraction\HumanStudentWorker\obj\Debug\HumanStudentWorker.csprojResolveAssemblyReference.cache
+E:\Fundamentials\HomeorksOOP\InheritanceAndAbstraction\HumanStudentWorker\bin\Debug\HumanStudentWorker.exe
+E:\Fundamentials\HomeorksOOP\InheritanceAndAbstraction\HumanStudentWorker\bin\Debug\HumanStudentWorker.pdb
+E:\Fundamentials\HomeorksOOP\InheritanceAndAbstraction\HumanStudentWorker\obj\Debug\HumanStudentWorker.exe
+E:\Fundamentials\HomeorksOOP\InheritanceAndAbstraction\HumanStudentWorker\obj\Debug\HumanStudentWorker.pdb

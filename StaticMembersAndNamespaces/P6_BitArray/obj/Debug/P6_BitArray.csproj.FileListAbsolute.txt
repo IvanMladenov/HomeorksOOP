@@ -1,0 +1,6 @@
+E:\Fundamentials\HomeorksOOP\StaticMembersAndNamespaces\P6_BitArray\bin\Debug\P6_BitArray.exe.config
+E:\Fundamentials\HomeorksOOP\StaticMembersAndNamespaces\P6_BitArray\bin\Debug\P6_BitArray.exe
+E:\Fundamentials\HomeorksOOP\StaticMembersAndNamespaces\P6_BitArray\bin\Debug\P6_BitArray.pdb
+E:\Fundamentials\HomeorksOOP\StaticMembersAndNamespaces\P6_BitArray\obj\Debug\P6_BitArray.csprojResolveAssemblyReference.cache
+E:\Fundamentials\HomeorksOOP\StaticMembersAndNamespaces\P6_BitArray\obj\Debug\P6_BitArray.exe
+E:\Fundamentials\HomeorksOOP\StaticMembersAndNamespaces\P6_BitArray\obj\Debug\P6_BitArray.pdb

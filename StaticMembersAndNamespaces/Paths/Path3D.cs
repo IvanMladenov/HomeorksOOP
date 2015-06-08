@@ -35,11 +35,6 @@ namespace Paths
             return current.ToString();
         }
 
-        //public void AddPointToPath(Point point)
-        //{
-        //    var currentPath = this.Path;
-        //    currentPath.Add(point);
-        //    this.Path = currentPath;
-        //}
+       
     }
 }
