@@ -9,20 +9,20 @@ namespace P6_BitArray
 {
     class P6_BitArray
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            BitArray arr = new BitArray(3);
+            BitArray arr = new BitArray(8);
             
             //Test for change some bits
-            arr[1] = 1;
+            arr[7] = 1;
             arr[0] = 1;
             Console.WriteLine(arr);
-            //test maximum lenght - test failed 
+            //test maximum lenght - test failed for realy big sequences
             BitArray arr1 = new BitArray(100000);
 
-            arr1[999] = 1;
+            arr1[999] = 1;//this test works
             Console.WriteLine(arr1);
-            //Console.WriteLine(BigInteger.ca)
+
 
         }
     }

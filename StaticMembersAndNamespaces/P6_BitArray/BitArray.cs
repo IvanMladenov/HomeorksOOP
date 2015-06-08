@@ -70,7 +70,9 @@ namespace P6_BitArray
             {
                 if(array[i]=='1')
                 {
-                    number += (BigInteger)(Math.Pow(2, counter));
+                    BigInteger temporary =
+                    (BigInteger)(Math.Pow(2, counter));
+                    number += temporary;
                 }
             }
 
