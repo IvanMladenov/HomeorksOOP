@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P6_BitArray", "P6_BitArray\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P5_HTMLDispatcher", "P5_HTMLDispatcher\P5_HTMLDispatcher.csproj", "{2DACE788-0DF8-4380-8B90-D995CCE83E46}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P4_Namespaces", "P4_Namespaces\P4_Namespaces.csproj", "{4498FD10-759E-41C8-81DD-C2EEA134A5B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{2DACE788-0DF8-4380-8B90-D995CCE83E46}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2DACE788-0DF8-4380-8B90-D995CCE83E46}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2DACE788-0DF8-4380-8B90-D995CCE83E46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4498FD10-759E-41C8-81DD-C2EEA134A5B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4498FD10-759E-41C8-81DD-C2EEA134A5B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4498FD10-759E-41C8-81DD-C2EEA134A5B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4498FD10-759E-41C8-81DD-C2EEA134A5B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

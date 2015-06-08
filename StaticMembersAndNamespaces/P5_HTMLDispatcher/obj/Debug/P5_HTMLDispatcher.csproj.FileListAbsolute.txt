@@ -1,0 +1,6 @@
+E:\Fundamentials\HomeorksOOP\StaticMembersAndNamespaces\P5_HTMLDispatcher\bin\Debug\P5_HTMLDispatcher.exe.config
+E:\Fundamentials\HomeorksOOP\StaticMembersAndNamespaces\P5_HTMLDispatcher\bin\Debug\P5_HTMLDispatcher.exe
+E:\Fundamentials\HomeorksOOP\StaticMembersAndNamespaces\P5_HTMLDispatcher\bin\Debug\P5_HTMLDispatcher.pdb
+E:\Fundamentials\HomeorksOOP\StaticMembersAndNamespaces\P5_HTMLDispatcher\obj\Debug\P5_HTMLDispatcher.csprojResolveAssemblyReference.cache
+E:\Fundamentials\HomeorksOOP\StaticMembersAndNamespaces\P5_HTMLDispatcher\obj\Debug\P5_HTMLDispatcher.exe
+E:\Fundamentials\HomeorksOOP\StaticMembersAndNamespaces\P5_HTMLDispatcher\obj\Debug\P5_HTMLDispatcher.pdb
