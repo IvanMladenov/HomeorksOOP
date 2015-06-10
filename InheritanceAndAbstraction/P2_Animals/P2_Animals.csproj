@@ -45,6 +45,7 @@
     <Compile Include="Cat.cs" />
     <Compile Include="Dog.cs" />
     <Compile Include="Frog.cs" />
+    <Compile Include="Gender.cs" />
     <Compile Include="ISoundProducible.cs" />
     <Compile Include="Kitten.cs" />
     <Compile Include="P2_Animals.cs" />
@@ -53,6 +54,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="ClassDiagram1.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

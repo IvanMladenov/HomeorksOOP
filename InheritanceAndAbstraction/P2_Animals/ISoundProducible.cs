@@ -8,6 +8,6 @@ namespace P2_Animals
 {
     interface ISoundProducible
     {
-        string ProduceSound();
+        void ProduceSound();
     }
 }

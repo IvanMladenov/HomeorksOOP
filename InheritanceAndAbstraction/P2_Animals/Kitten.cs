@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace P2_Animals
 {
-    class Kitten
+    class Kitten:Cat
     {
+
+        public Kitten(string name, int age)
+            : base(name, age, Gender.Female)
+        {
+            
+        }
     }
 }

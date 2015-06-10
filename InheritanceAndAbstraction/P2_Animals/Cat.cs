@@ -6,7 +6,17 @@ using System.Threading.Tasks;
 
 namespace P2_Animals
 {
-    class Cat
+    class Cat:Animal
     {
+        public Cat(string name, int age, Gender gender)
+            : base(name, age, gender)
+        {
+
+        }
+
+        public override void ProduceSound()
+        {
+            Console.WriteLine("Miau");
+        }
     }
 }
