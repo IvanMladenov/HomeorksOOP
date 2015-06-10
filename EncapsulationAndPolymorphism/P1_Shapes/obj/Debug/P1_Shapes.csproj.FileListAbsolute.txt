@@ -1,0 +1,6 @@
+E:\Fundamentials\HomeorksOOP\EncapsulationAndPolymorphism\P1_Shapes\bin\Debug\P1_Shapes.exe.config
+E:\Fundamentials\HomeorksOOP\EncapsulationAndPolymorphism\P1_Shapes\obj\Debug\P1_Shapes.csprojResolveAssemblyReference.cache
+E:\Fundamentials\HomeorksOOP\EncapsulationAndPolymorphism\P1_Shapes\bin\Debug\P1_Shapes.exe
+E:\Fundamentials\HomeorksOOP\EncapsulationAndPolymorphism\P1_Shapes\bin\Debug\P1_Shapes.pdb
+E:\Fundamentials\HomeorksOOP\EncapsulationAndPolymorphism\P1_Shapes\obj\Debug\P1_Shapes.exe
+E:\Fundamentials\HomeorksOOP\EncapsulationAndPolymorphism\P1_Shapes\obj\Debug\P1_Shapes.pdb
