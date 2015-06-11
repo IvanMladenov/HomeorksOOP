@@ -1,0 +1,6 @@
+E:\Fundamentials\HomeorksOOP\EncapsulationAndPolymorphism\KurtovoKonareBankTest\bin\Debug\KurtovoKonareBankTest.exe.config
+E:\Fundamentials\HomeorksOOP\EncapsulationAndPolymorphism\KurtovoKonareBankTest\bin\Debug\KurtovoKonareBankTest.exe
+E:\Fundamentials\HomeorksOOP\EncapsulationAndPolymorphism\KurtovoKonareBankTest\bin\Debug\KurtovoKonareBankTest.pdb
+E:\Fundamentials\HomeorksOOP\EncapsulationAndPolymorphism\KurtovoKonareBankTest\obj\Debug\KurtovoKonareBankTest.csprojResolveAssemblyReference.cache
+E:\Fundamentials\HomeorksOOP\EncapsulationAndPolymorphism\KurtovoKonareBankTest\obj\Debug\KurtovoKonareBankTest.exe
+E:\Fundamentials\HomeorksOOP\EncapsulationAndPolymorphism\KurtovoKonareBankTest\obj\Debug\KurtovoKonareBankTest.pdb
