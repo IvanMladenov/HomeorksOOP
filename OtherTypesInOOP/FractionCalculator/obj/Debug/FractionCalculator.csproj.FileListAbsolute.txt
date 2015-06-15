@@ -1,0 +1,6 @@
+E:\Fundamentials\HomeorksOOP\OtherTypesInOOP\FractionCalculator\bin\Debug\FractionCalculator.exe.config
+E:\Fundamentials\HomeorksOOP\OtherTypesInOOP\FractionCalculator\bin\Debug\FractionCalculator.exe
+E:\Fundamentials\HomeorksOOP\OtherTypesInOOP\FractionCalculator\bin\Debug\FractionCalculator.pdb
+E:\Fundamentials\HomeorksOOP\OtherTypesInOOP\FractionCalculator\obj\Debug\FractionCalculator.csprojResolveAssemblyReference.cache
+E:\Fundamentials\HomeorksOOP\OtherTypesInOOP\FractionCalculator\obj\Debug\FractionCalculator.exe
+E:\Fundamentials\HomeorksOOP\OtherTypesInOOP\FractionCalculator\obj\Debug\FractionCalculator.pdb

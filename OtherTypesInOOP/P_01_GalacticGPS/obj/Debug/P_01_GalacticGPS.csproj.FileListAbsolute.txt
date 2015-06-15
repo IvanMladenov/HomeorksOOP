@@ -1,0 +1,6 @@
+E:\Fundamentials\HomeorksOOP\OtherTypesInOOP\P_01_GalacticGPS\bin\Debug\P_01_GalacticGPS.exe.config
+E:\Fundamentials\HomeorksOOP\OtherTypesInOOP\P_01_GalacticGPS\obj\Debug\P_01_GalacticGPS.csprojResolveAssemblyReference.cache
+E:\Fundamentials\HomeorksOOP\OtherTypesInOOP\P_01_GalacticGPS\bin\Debug\P_01_GalacticGPS.exe
+E:\Fundamentials\HomeorksOOP\OtherTypesInOOP\P_01_GalacticGPS\bin\Debug\P_01_GalacticGPS.pdb
+E:\Fundamentials\HomeorksOOP\OtherTypesInOOP\P_01_GalacticGPS\obj\Debug\P_01_GalacticGPS.exe
+E:\Fundamentials\HomeorksOOP\OtherTypesInOOP\P_01_GalacticGPS\obj\Debug\P_01_GalacticGPS.pdb
