@@ -1,0 +1,6 @@
+E:\Fundamentials\HomeorksOOP\DelegatesAndEvents\CostomLINQEextension\bin\Debug\CostomLINQEextension.exe.config
+E:\Fundamentials\HomeorksOOP\DelegatesAndEvents\CostomLINQEextension\bin\Debug\CostomLINQEextension.exe
+E:\Fundamentials\HomeorksOOP\DelegatesAndEvents\CostomLINQEextension\bin\Debug\CostomLINQEextension.pdb
+E:\Fundamentials\HomeorksOOP\DelegatesAndEvents\CostomLINQEextension\obj\Debug\CostomLINQEextension.csprojResolveAssemblyReference.cache
+E:\Fundamentials\HomeorksOOP\DelegatesAndEvents\CostomLINQEextension\obj\Debug\CostomLINQEextension.exe
+E:\Fundamentials\HomeorksOOP\DelegatesAndEvents\CostomLINQEextension\obj\Debug\CostomLINQEextension.pdb
