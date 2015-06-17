@@ -25,7 +25,7 @@
             Fraction result = fraction1 + fraction2;
             Console.WriteLine(result.Nomerator);
             Console.WriteLine(result.Denomerator);
-            Console.WriteLine(result);
+            Console.WriteLine(result);            
         }
     }
 }

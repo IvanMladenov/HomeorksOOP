@@ -1,13 +1,11 @@
-﻿using System;
-using System.Numerics;
-
-namespace FractionCalculator
+﻿namespace FractionCalculator
 {
+    using System;
     using System.Globalization;
+    using System.Numerics;
 
     public struct Fraction
     {
-        private long nomerator;
         private long denomerator;
 
         public Fraction(long nomerator, long denomerator)
@@ -17,26 +15,22 @@ namespace FractionCalculator
             this.Nomerator = nomerator;
         }
 
-        public long Nomerator
-        {
-            get { return this.nomerator; }
-            set
-            {
-                
-                this.nomerator = value;
-            }
-        }
+        public long Nomerator { get; set; }
 
         public long Denomerator
         {
-            get { return this.denomerator; }
+            get
+            {
+                return this.denomerator;
+            }
+
             set
             {
                 if (value == 0)
                 {
                     throw new DivideByZeroException("Denomerator cant be 0.");
                 }
-                
+
                 this.denomerator = value;
             }
         }
@@ -45,27 +39,26 @@ namespace FractionCalculator
         {
             get
             {
-                return (double) this.Nomerator/this.Denomerator;
+                return (double)this.Nomerator / this.Denomerator;
             }
         }
 
-        //Methods
-
+        // Methods
         public static Fraction operator +(Fraction a, Fraction b)
         {
-            BigInteger newDenomerator = a.Denomerator*b.Denomerator;
-            BigInteger newFractionANomerator = a.Nomerator*b.Denomerator;
-            BigInteger newFractionBNomerator = b.Nomerator*a.Denomerator;
+            BigInteger newDenomerator = a.Denomerator * b.Denomerator;
+            BigInteger newFractionANomerator = a.Nomerator * b.Denomerator;
+            BigInteger newFractionBNomerator = b.Nomerator * a.Denomerator;
 
             BigInteger newFractionNomerator = newFractionANomerator + newFractionBNomerator;
 
-            if (newDenomerator > long.MaxValue || newFractionNomerator > long.MaxValue ||
-                newFractionANomerator > long.MaxValue || newFractionBNomerator > long.MaxValue)
+            if (newDenomerator > long.MaxValue || newFractionNomerator > long.MaxValue
+                || newFractionANomerator > long.MaxValue || newFractionBNomerator > long.MaxValue)
             {
                 throw new ArithmeticException("Too large numbers.");
             }
 
-            return new Fraction((long)newFractionNomerator,(long)newDenomerator);
+            return new Fraction((long)newFractionNomerator, (long)newDenomerator);
         }
 
         public static Fraction operator -(Fraction a, Fraction b)
@@ -76,8 +69,8 @@ namespace FractionCalculator
 
             BigInteger newFractionNomerator = newFractionANomerator - newFractionBNomerator;
 
-            if (newDenomerator > long.MaxValue || newFractionNomerator > long.MaxValue ||
-                newFractionANomerator > long.MaxValue || newFractionBNomerator > long.MaxValue)
+            if (newDenomerator > long.MaxValue || newFractionNomerator > long.MaxValue
+                || newFractionANomerator > long.MaxValue || newFractionBNomerator > long.MaxValue)
             {
                 throw new ArithmeticException("Too large numbers.");
             }
@@ -87,9 +80,7 @@ namespace FractionCalculator
 
         public override string ToString()
         {
-            
             return this.Result.ToString(CultureInfo.InvariantCulture);
         }
-
     }
 }

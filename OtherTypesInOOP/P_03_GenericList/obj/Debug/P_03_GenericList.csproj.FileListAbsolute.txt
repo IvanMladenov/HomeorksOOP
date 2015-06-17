@@ -1,0 +1,6 @@
+E:\Fundamentials\HomeorksOOP\OtherTypesInOOP\P_03_GenericList\bin\Debug\P_03_GenericList.exe.config
+E:\Fundamentials\HomeorksOOP\OtherTypesInOOP\P_03_GenericList\bin\Debug\P_03_GenericList.exe
+E:\Fundamentials\HomeorksOOP\OtherTypesInOOP\P_03_GenericList\bin\Debug\P_03_GenericList.pdb
+E:\Fundamentials\HomeorksOOP\OtherTypesInOOP\P_03_GenericList\obj\Debug\P_03_GenericList.csprojResolveAssemblyReference.cache
+E:\Fundamentials\HomeorksOOP\OtherTypesInOOP\P_03_GenericList\obj\Debug\P_03_GenericList.exe
+E:\Fundamentials\HomeorksOOP\OtherTypesInOOP\P_03_GenericList\obj\Debug\P_03_GenericList.pdb
