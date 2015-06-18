@@ -1,0 +1,6 @@
+E:\Fundamentials\HomeorksOOP\DelegatesAndEvents\StudentClass\bin\Debug\StudentClass.exe.config
+E:\Fundamentials\HomeorksOOP\DelegatesAndEvents\StudentClass\bin\Debug\StudentClass.exe
+E:\Fundamentials\HomeorksOOP\DelegatesAndEvents\StudentClass\bin\Debug\StudentClass.pdb
+E:\Fundamentials\HomeorksOOP\DelegatesAndEvents\StudentClass\obj\Debug\StudentClass.csprojResolveAssemblyReference.cache
+E:\Fundamentials\HomeorksOOP\DelegatesAndEvents\StudentClass\obj\Debug\StudentClass.exe
+E:\Fundamentials\HomeorksOOP\DelegatesAndEvents\StudentClass\obj\Debug\StudentClass.pdb

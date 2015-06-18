@@ -1,18 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace AsynchronousTimer
+﻿namespace AsynchronousTimer
 {
+    using System;
     using System.Threading;
-
-    // public delegate void ToBeCalled();
 
     public class AsyncTymer
     {
-
         public AsyncTymer(int calls, int interval, Action del)
         {
             this.Execute = del;
@@ -35,7 +27,7 @@ namespace AsynchronousTimer
         private void CallTheMethod()
         {
             for (int i = 0; i < this.NumberOfCalls; i++)
-            {               
+            {
                 this.Execute();
                 Thread.Sleep(this.Interval);
             }
